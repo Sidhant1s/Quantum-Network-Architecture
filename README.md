@@ -71,7 +71,7 @@ This repository is not open for public contributions at the moment. Interested a
 ## 🧑‍💻 Author
 
 **Sidhant Negi**  
-📧 [sidhanttnegi68@gmail.com](mailto:sidhanttnegi68@gmail.com)  
+📧 [sidhantnegi68@gmail.com](mailto:sidhantnegi68@gmail.com)  
 🔗 [GitHub: Sidhant1s](https://github.com/Sidhant1s)  
 
 ---
