@@ -29,6 +29,18 @@ Developed by **Sidhant Negi**, the framework combines software logic with physic
 
 ---
 
+## ⚠️ Known Limitations in Quantum Communication and Proposed Solutions
+
+| Limitation                                               | Proposed Solution                                                                                                                                                    |
+| -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Photon Loss over Long Distances**                      | Use satellite-to-satellite transmission and quantum repeaters to minimize loss. Cover communication with noise and decoy photons for better protection.              |
+| **Message Destruction on Interception**                  | Implement QDDS to trigger decoys with self-destruct protocols and flag the interception source.                                                                      |
+| **Intentional Blocking to Disrupt Communication**        | QARP reroutes communication automatically. Sender and receiver are notified; communication path switches to a secure alternate.                                      |
+| **Limited Photon Generation Capability**                 | Future-proof the system by enabling modular upgrades to photon generators; design software to handle high packet distribution with minimal dependency on batch size. |
+| **Difficulty in Identifying Complete Message Integrity** | Attach unique packet IDs and start-end tags; if a packet is lost, the receiver requests only that specific packet for retransmission.                                |
+
+---
+
 ## 🛰 Use Case Sectors
 
 * **Defense (DRDO, ISRO)**: Military-grade tamper-proof communication.
